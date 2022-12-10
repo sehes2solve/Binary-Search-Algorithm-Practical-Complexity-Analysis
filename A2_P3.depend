@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1554046230 source:c:\users\peter\desktop\a2_p3\main.cpp
+	<iostream>
+	"Searcher.h"
+
+1554046148 c:\users\peter\desktop\a2_p3\searcher.h
+	<iostream>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	<chrono>
+
+1554046230 source:d:\2nd semister grade 2\data structures\assignment\a2_20170079_20170081_20170094\a2_p3\main.cpp
+	<iostream>
+	"Searcher.h"
+
+1555589943 d:\2nd semister grade 2\data structures\assignment\a2_20170079_20170081_20170094\a2_p3\searcher.h
+	<iostream>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	<chrono>
+
